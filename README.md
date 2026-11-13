@@ -1,20 +1,18 @@
 # Hi, I'm Rahul Reghu 👋
 
-**Backend engineer** with 3 years building TypeScript + Node.js services for distributed
-e-commerce and marketplace platforms — catalog, checkout, payments, search, and async workflows.
+**Backend Software Engineer** with 3+ years building Node.js and TypeScript services for e-commerce, authentication, and transactional systems. Currently at **ISPG**, Kochi.
 
-- 🏗️ **Focus:** distributed systems, microservices, search & recommendations, API design, performance
-- ⚡ **Recently:** cut MongoDB query latency ~800ms → ~200ms; built product-sync pipelines and
-  Atlas/Elasticsearch search for catalogs of 20,000+ products
-- 🌱 **Exploring:** durable async job/workflow processing → see **Async-Job-Processor**
-- 💬 Open to backend roles — best reached on LinkedIn
+- 🔐 **Now:** authentication and session management (refresh-token rotation, Redis-backed session versioning) and a commission engine for staff and external referral partners
+- ⚡ **Previously (Evolvier):** cut MongoDB query latency ~800ms → ~200ms; built Elasticsearch and Atlas Search for catalogs of 20,000+ products; Meta Commerce sync pipelines; NestJS microservices migration
+- 🌱 **Exploring:** durable async job and workflow processing ([Async-Job-Processor](https://github.com/rrahul32/Async-Job-Processor), early stage)
+- 💬 Open to backend roles: reach me on [LinkedIn](https://linkedin.com/in/rrahul32) or by [email](mailto:rahulreghu32@gmail.com)
 
 ### Tech
-`TypeScript` · `Node.js` · `NestJS` · `GraphQL` · `REST APIs` · `MongoDB` · `Elasticsearch` · `Docker` · `AWS S3` · `Git`
+`TypeScript` · `Node.js` · `NestJS` · `GraphQL` · `REST APIs` · `MongoDB` · `Elasticsearch` · `Redis` · `Docker` · `AWS S3` · `Playwright` · `Git`
 
-### Featured projects
-- **[Async-Job-Processor](https://github.com/rrahul32/Async-Job-Processor)** — distributed async job processor in NestJS (BullMQ + Redis) · *WIP*
-- **[chatApp](https://github.com/rrahul32/chatApp)** — real-time messaging app (React Native + Meteor.js + MongoDB) with GPT-3.5 auto-replies, translation & emotion detection
+### Projects
+- **[Async-Job-Processor](https://github.com/rrahul32/Async-Job-Processor)**: async job/workflow processor in NestJS (BullMQ + Redis) · *early stage*
+- **[chatApp](https://github.com/rrahul32/chatApp)**: real-time messaging app (React Native + Meteor.js + MongoDB) with GPT-3.5 auto-replies, translation, and emotion detection
 
-### Connect
-[LinkedIn](https://linkedin.com/in/rrahul32) · 📫 rahulreghu32@gmail.com
+### Links
+🌐 [rrahul32.github.io](https://rrahul32.github.io) · 💼 [LinkedIn](https://linkedin.com/in/rrahul32) · 📄 [Résumé](https://rrahul32.github.io/Rahul_CV.pdf)
